@@ -1,4 +1,3 @@
-layout_spectrum: 0.8930124153848737
 typography_spectrum: 0.9776177976746112
 color:
   brandStrength: 0.6505565140396357
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8930124153848737
 name: Matti
+title: Matti
 description: Varmaan ihan huikea
