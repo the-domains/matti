@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-08T10:18:15.755Z'
+datePublished: '2016-08-31T05:45:29.527Z'
 sourcePath: _posts/2016-04-15-new-zealands-otherworldly-landscapes.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.cntraveler.com/galleries/2012-04-24/new-zealand-maori-lord-of-the-rings-alps-bay-islands-photos-hakan-ludwigson
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - alps
   - antarctica
@@ -21,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-08T10:18:14.618Z'
+dateModified: '2016-08-31T05:45:28.902Z'
 title: New Zealand's Otherworldly Landscapes
 app_links: []
 publisher:
@@ -38,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: new-zealands-otherworldly-landscapes/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
