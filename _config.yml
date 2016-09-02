@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.8930124153848737
 name: Matti
+navigation:
+  - name: New Zealand's Otherworldly Landscapes
+    id: ad9f25bc-9271-4e6d-9f6a-54d85d96af59
+    type: content
 title: Matti
 description: Varmaan ihan huikea
